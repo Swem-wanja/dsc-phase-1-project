@@ -1,4 +1,4 @@
-                                            Industry Genres
+                                            INDUSTRY GENRES
 
 INTRODUCTION
 
@@ -10,8 +10,10 @@ To run the project, you will need to import the right libraries e.g. pandas, mat
 With the three analyses, one can make an informed decision when they read the information presented.
 
 LICENSE
+
 The dataset used was from Kaggle and it has been of great insight. Statista.com also gave me some insights into the industry on how well it does and how it runs.
 
 SUMMARY
+
 This project has looked at several different standpoints of view and the overall consensus shows that there are three genres that stand out that will be best to start with as Microsoft dives into the video streaming services. Fantasy, Action, and Science Fiction are the best in the industry and they are what Microsoft should invest in.
 
